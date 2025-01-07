@@ -1,6 +1,6 @@
-# Sistemas Operacionais
+# Experiência do Usuário
 
 -  Professor: Rafael Chanin
 -  Código: 98905-04
 -  Semestre: 2024/2
--  Nota: cursando
+-  Nota: 9.3
